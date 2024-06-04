@@ -1,0 +1,18 @@
+Welcome to Git! I like GitHub.
+
+This is my first tracked file.
+Git will track changes made to this file.
+
+I will now add more lines to this file.
+I will again take a "snapshot" of this file.
+
+To save the changes to Git, I need to:
+
+* add the file to the staging area
+* then commit my changes to the local repo.
+
+One more last commit on this file.
+
+I will now change this one more time.
+
+This was added on another day.

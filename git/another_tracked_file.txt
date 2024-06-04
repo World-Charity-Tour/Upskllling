@@ -1,0 +1,4 @@
+This an untracked file, will be renamed to another_tracked_file.txt.
+Git will track changes made to this file.
+
+I will change this again.
