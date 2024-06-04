@@ -1,6 +1,9 @@
 # Upskilling Repository for Camsol
 
-## Git 
+## Git
+
+### Presentation draft 
+ https://gamma.app/docs/Git-Wizardry-A-Magical-Journey-Through-Version-Control-1ydshqgpelnqxjr
 
 In the Git folder, you will find interactive tasks to practice basic Git commands with examples:
 
