@@ -1,0 +1,2 @@
+* Practice and learn at [TryHackMe | Cyber Security Training](https://tryhackme.com/)
+* [This is a Google Drive link](https://drive.google.com/drive/u/0/folders/1ecjqC6uBOv-Dx0s1laGsSjkmV9vbPB4l) with some helpful [learning] resources

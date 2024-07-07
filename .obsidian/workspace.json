@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "e44167cb3b290b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f0747aaaea7ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "339ed59ac760ee0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Resources/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "022bba79e70ce5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c2169e739e1f1c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5e6bcaa4d0e598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b926a107ba3d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba522988147070e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9be4a173f84758a",
+    "type": "split",
+    "children": [
+      {
+        "id": "091b0c48272294df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5dbb82e3233747",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity Resources/Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "833bffdec9ea7903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity Resources/Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a7fd4d2cb77bb12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49844735adb12364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity Resources/Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "339ed59ac760ee0b",
+  "lastOpenFiles": [
+    "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
+    "Cybersecurity Resources/Resources.md",
+    "Cybersecurity Resources/Free CC Certification Voucher.md",
+    "Cybersecurity Resources/Free CC Certification Voucher"
+  ]
+}
