@@ -1,6 +1,6 @@
 # Docker and Kubernetes Guide
 
-This guide provides a comprehensive introduction to Docker and Kubernetes, covering everything from basic Docker concepts to deploying applications with Kubernetes. You'll learn about Docker images, containers, networks, and volumes, and get an introduction to Kubernetes architecture and commands. By the end of this guide, you'll also know how to create a container, serve it using Kubernetes services, and generate SSL certificates.
+This guide provides a comprehensive introduction to Docker and Kubernetes, covering everything from basic Docker concepts to deploying applications with Kubernetes. You'll learn about Docker images, containers, networks, and volumes, get an introduction to Kubernetes architecture and commands, and explore OVH Managed Kubernetes with an example deployment. By the end of this guide, you'll know how to create a container, serve it using Kubernetes services, and generate SSL certificates.
 
 ## Table of Contents
 
@@ -32,6 +32,9 @@ This guide provides a comprehensive introduction to Docker and Kubernetes, cover
 - [Step 2: Deploy a Container Using Kubernetes](#step-2-deploy-a-container-using-kubernetes)
 - [Step 3: Expose the Container Using Kubernetes Services](#step-3-expose-the-container-using-kubernetes-services)
 - [Step 4: Generate SSL Certificates and Secure Your Service](#step-4-generate-ssl-certificates-and-secure-your-service)
+- [OVH Managed Kubernetes](#ovh-managed-kubernetes)
+  - [What is OVH Managed Kubernetes?](#what-is-ovh-managed-kubernetes)
+  - [Example Deployment on OVH Managed Kubernetes](#example-deployment-on-ovh-managed-kubernetes)
 - [Conclusion](#conclusion)
 
 ---
@@ -448,6 +451,93 @@ Here are some basic commands to interact with a Kubernetes cluster:
 
    Your application will now be served over HTTPS.
 
+## OVH Managed Kubernetes
+
+### What is OVH Managed Kubernetes?
+
+OVH Managed Kubernetes is a fully managed Kubernetes service provided by OVHcloud. It simplifies the deployment, management, and scaling of containerized applications using Kubernetes. With OVH Managed Kubernetes, you don't need to worry about the underlying infrastructure, as OVH handles the control plane, networking, and node management.
+
+### Example Deployment on OVH Managed Kubernetes
+
+In this section, we'll go through an example of deploying a containerized application on OVH Managed Kubernetes.
+
+1. **Create a Kubernetes Cluster in OVHcloud**:
+   - Log in to your OVHcloud Control Panel.
+   - Navigate to the **Public Cloud** section and create a new Kubernetes cluster.
+   - Choose the desired region, number of nodes, and node specifications.
+   - Once the cluster is created, download the kubeconfig file for accessing your cluster.
+
+2. **Access the Cluster**:
+   - Move the kubeconfig file to the `~/.kube` directory:
+     ```bash
+     mv <path-to-kubeconfig-file> ~/.kube/config
+     ```
+   - Verify access to the cluster:
+     ```bash
+     kubectl cluster-info
+     ```
+
+3. **Deploy an Application**:
+   - Create a Deployment YAML file (`deployment.yaml`):
+     ```yaml
+     apiVersion: apps/v1
+     kind: Deployment
+     metadata:
+       name: ovh-frontend-deployment
+     spec:
+       replicas: 2
+       selector:
+         matchLabels:
+           app: ovh-frontend
+       template:
+         metadata:
+           labels:
+             app: ovh-frontend
+         spec:
+           containers:
+           - name: ovh-frontend-container
+             image: <your-dockerhub-username>/frontend-project:latest
+             ports:
+             - containerPort: 3000
+     ```
+   - Deploy the application:
+     ```bash
+     kubectl apply -f deployment.yaml
+     ```
+   - Verify the deployment:
+     ```bash
+     kubectl get deployments
+     ```
+
+4. **Expose the Application**:
+   - Create a Service YAML file (`service.yaml`):
+     ```yaml
+     apiVersion: v1
+     kind: Service
+     metadata:
+       name: ovh-frontend-service
+     spec:
+       selector:
+         app: ovh-frontend
+       ports:
+         - protocol: TCP
+           port: 80
+           targetPort: 3000
+       type: LoadBalancer
+     ```
+   - Expose the deployment as a service:
+     ```bash
+     kubectl apply -f service.yaml
+     ```
+   - Retrieve the external IP address:
+     ```bash
+     kubectl get services ovh-frontend-service
+     ```
+   - Access your application using the external IP.
+
+5. **Secure the Application with SSL**:
+   - Install cert-manager and set up Ingress as described in the earlier section to secure your OVH Managed Kubernetes service with SSL.
+
 ## Conclusion
 
-You have successfully completed a comprehensive session on Docker and Kubernetes. You've learned the basics of Docker, including images, containers, networks, and volumes. You’ve also deployed a Dockerized application to Kubernetes, exposed it using services, and secured it with SSL certificates. This knowledge forms a solid foundation for working with containerized applications in production environments.
+You have successfully completed a comprehensive session on Docker and Kubernetes. You've learned the basics of Docker, including images, containers, networks, and volumes. You’ve also deployed a Dockerized application to Kubernetes, explored OVH Managed Kubernetes, and secured your services with SSL certificates. This knowledge forms a solid foundation for working with containerized applications in production environments.
