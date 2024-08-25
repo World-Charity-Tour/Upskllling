@@ -11,11 +11,9 @@
             "id": "339ed59ac760ee0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
-                "mode": "source",
-                "source": false
+                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
+                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
+                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Resources/FreeCC-CertificationVoucher.md"
+                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf"
               }
             }
           }
@@ -148,6 +146,7 @@
   },
   "active": "339ed59ac760ee0b",
   "lastOpenFiles": [
+    "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
     "Cybersecurity Resources/Resources.md",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/Beautiful.ai - Web Session Management.pdf",
@@ -155,7 +154,6 @@
     "Cybersecurity Resources/Books/Stallings, William - Network security essentials_ applications and standards (2016_2017, Pearson).pdf",
     "Cybersecurity Resources/Books",
     "Untitled",
-    "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
     "Cybersecurity Resources/Free CC Certification Voucher.md",
     "Cybersecurity Resources/Free CC Certification Voucher"
   ]
