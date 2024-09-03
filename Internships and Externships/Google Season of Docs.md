@@ -8,4 +8,4 @@ Google Season of Docs supports documentation in open source by:
 
 Google Season of Docs seeks to empower open source organizations to understand their documentation needs, to create documentation to fill those needs, to measure the effect and impact of their documentation, and, in the spirit of open source, share what they've learned to help guide other projects. Google Season of Docs seeks to bring more technical writers into open source through funding their work with open source projects and organizations.
 
-[Read more on the website here](https://developers.google.com/season-of-docs/docs/get-started). 
+[Read more on the website here](https://developers.google.com/season-of-docs/docs/get-started).  Applications ar accepted only once a year, after organisations have been announced sometime in early April.
