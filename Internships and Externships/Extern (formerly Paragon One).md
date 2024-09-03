@@ -9,4 +9,4 @@ At Extern, we’re pioneering a new approach to work and learning, and we invite
 
 Extern is backed by Foundation Capital, University Ventures, Learn Capital, Y Combinator and Jason Calacanis’ Launch Fund.
 
-Visit Extern's website to learn more and search for externships that 
+[Visit Extern's website](https://www.extern.com/externships?referrer=u22b1e08e087d326eff27d0183067776e73d9887e97) to learn more and search for externships that apply to you.
