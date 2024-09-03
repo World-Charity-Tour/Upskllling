@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Internships and Externships/Summer of Code by Google.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Internships and Externships/Summer of Code by Google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Internships and Externships/Summer of Code by Google.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md"
+                "file": "Internships and Externships/Summer of Code by Google.md"
               }
             }
           }
@@ -159,11 +159,11 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
+    "Internships and Externships/Extern (formerly Paragon One).md",
     "Internships and Externships/Summer of Docs by Google.md",
     "Internships and Externships/MLH Fellowship.md",
     "Internships and Externships/Summer of Code by Google.md",
     "Cybersecurity Resources/Resources.md",
-    "Internships and Externships/Extern (formerly Paragon One).md",
     "README.md",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
