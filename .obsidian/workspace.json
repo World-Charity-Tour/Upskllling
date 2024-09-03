@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Resources/Resources.md",
+                "file": "Internships and Externships/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Resources/Resources.md",
+                "file": "Internships and Externships/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Resources/Resources.md",
+                "file": "Internships and Externships/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Resources/Resources.md"
+                "file": "Internships and Externships/Untitled.md"
               }
             }
           }
@@ -159,6 +159,9 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
+    "Internships and Externships/Summer of Code by Google.md",
+    "Internships and Externships/Untitled.md",
+    "Cybersecurity Resources/Resources.md",
     "Internships and Externships/Extern (formerly Paragon One).md",
     "README.md",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
@@ -170,7 +173,6 @@
     "Cybersecurity Resources/Project Management",
     "Docker/README.md",
     "Docker",
-    "Cybersecurity Resources/Resources.md",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/Beautiful.ai - Web Session Management.pdf",
     "Cybersecurity Resources/OffSec Course with Simon via Discord",
     "Cybersecurity Resources/Books/Stallings, William - Network security essentials_ applications and standards (2016_2017, Pearson).pdf",
