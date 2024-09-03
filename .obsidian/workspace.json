@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internships and Externships/Google Summer of Code.md",
+                "file": "Internships and Externships/Google Season of Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internships and Externships/Google Summer of Code.md",
+                "file": "Internships and Externships/Google Season of Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internships and Externships/Google Summer of Code.md",
+                "file": "Internships and Externships/Google Season of Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internships and Externships/Google Summer of Code.md"
+                "file": "Internships and Externships/Google Season of Docs.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
-    "Internships and Externships/Extern (formerly Paragon One).md",
-    "Internships and Externships/Summer of Docs by Google.md",
-    "Internships and Externships/MLH Fellowship.md",
     "Internships and Externships/Google Summer of Code.md",
+    "Internships and Externships/Extern (formerly Paragon One).md",
+    "Internships and Externships/Google Season of Docs.md",
+    "Internships and Externships/MLH Fellowship.md",
     "Cybersecurity Resources/Resources.md",
     "README.md",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
