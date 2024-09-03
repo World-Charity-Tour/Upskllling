@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Cybersecurity Resources/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Cybersecurity Resources/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md",
+                "file": "Cybersecurity Resources/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internships and Externships/Extern (formerly Paragon One).md"
+                "file": "Cybersecurity Resources/Resources.md"
               }
             }
           }
@@ -159,9 +159,9 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
+    "Internships and Externships/Extern (formerly Paragon One).md",
     "README.md",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
-    "Internships and Externships/Extern (formerly Paragon One).md",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
     "Project Management Resources/Resources.md",
     "Project Management Resources",
