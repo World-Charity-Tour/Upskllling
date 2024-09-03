@@ -6,4 +6,4 @@ During Google Summer of Code, participating contributors are paired with mentors
 
 Participating organizations use the program to identify and bring in new, excited developers. Many of those new developers will continue to contribute to their new communities and open source long after GSoC is over.
 
-[Read more on the website here](https://summerofcode.withgoogle.com/about)). Applications are accepted only once a year from students beginning in March.
+[Read more on the website here](https://summerofcode.withgoogle.com/about). Applications are accepted only once a year from students beginning in March.
