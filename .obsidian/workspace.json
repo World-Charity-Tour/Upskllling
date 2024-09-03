@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/README.md",
+                "file": "Internships, Externships & Career Resources/Career Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/README.md",
+                "file": "Internships, Externships & Career Resources/Career Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/README.md",
+                "file": "Internships, Externships & Career Resources/Career Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/README.md"
+                "file": "Internships, Externships & Career Resources/Career Resources.md"
               }
             }
           }
@@ -159,10 +159,12 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
-    "Internships and Externships/Major League Hacking Fellowship.md",
-    "Internships and Externships/Google Summer of Code.md",
-    "Internships and Externships/Google Season of Docs.md",
-    "Internships and Externships/Extern (formerly Paragon One).md",
+    "git/README.md",
+    "Internships, Externships & Career Resources/Career Resources.md",
+    "Internships, Externships & Career Resources/Major League Hacking Fellowship.md",
+    "Internships, Externships & Career Resources/Google Summer of Code.md",
+    "Internships, Externships & Career Resources/Google Season of Docs.md",
+    "Internships, Externships & Career Resources/Extern (formerly Paragon One).md",
     "Cybersecurity Resources/Resources.md",
     "README.md",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
