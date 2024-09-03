@@ -1,1 +1,1 @@
-Read more on the w
+[Read more on the website here](https://developers.google.com/season-of-docs/docs/get-started). 
