@@ -16,8 +16,21 @@
                 "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf"
               }
             }
+          },
+          {
+            "id": "4b3763ee7d752037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internships and Externships/Internship & Externship Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
+                "file": "Internships and Externships/Internship & Externship Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
+                "file": "Internships and Externships/Internship & Externship Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf"
+                "file": "Internships and Externships/Internship & Externship Resources.md"
               }
             }
           }
@@ -144,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5e6bcaa4d0e598",
+  "active": "4b3763ee7d752037",
   "lastOpenFiles": [
+    "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
+    "Internships and Externships/Internship & Externship Resources.md",
     "Project Management Resources/Resources.md",
     "Project Management Resources",
     "Project Management",
@@ -155,7 +170,6 @@
     "Docker",
     "Cybersecurity Resources/FreeCC-CertificationVoucher.md",
     "Cybersecurity Resources/Resources.md",
-    "Cybersecurity Resources/OffSec Course with Simon via Discord/web Attacker Methodology.pdf",
     "Cybersecurity Resources/OffSec Course with Simon via Discord/Beautiful.ai - Web Session Management.pdf",
     "Cybersecurity Resources/OffSec Course with Simon via Discord",
     "Cybersecurity Resources/Books/Stallings, William - Network security essentials_ applications and standards (2016_2017, Pearson).pdf",
