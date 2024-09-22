@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internships, Externships & Career Resources/Career Resources.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internships, Externships & Career Resources/Career Resources.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internships, Externships & Career Resources/Career Resources.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internships, Externships & Career Resources/Career Resources.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "4b3763ee7d752037",
   "lastOpenFiles": [
-    "git/README.md",
     "Internships, Externships & Career Resources/Career Resources.md",
+    "git/README.md",
     "Internships, Externships & Career Resources/Major League Hacking Fellowship.md",
     "Internships, Externships & Career Resources/Google Summer of Code.md",
     "Internships, Externships & Career Resources/Google Season of Docs.md",

@@ -1,6 +1,6 @@
 # Upskilling Repository for Camsol
 
-Welcome to the Upskilling repository! This repository contains a collection of resources, guides, and tutorials designed to enhance your skills in various technical domains. Below is an overview of the available folders and their contents.
+Welcome to the Upskilling repo! This repository contains a collection of resources, guides, and tutorials designed to enhance your skills in various technical domains. Below is an overview of the available folders and their contents.
 
 ## Repository Structure
 
